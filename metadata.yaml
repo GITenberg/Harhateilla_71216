@@ -1,0 +1,41 @@
+_repo: Harhateilla_71216
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Anttila, Selma
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '43058'
+    url: http://www.gutenberg.org/2009/agents/43058
+    wikipedia: http://fi.wikipedia.org/wiki/Selma_Anttila
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstacker, Friedrich
+    - Gerstäcker, Friedrich Wilhelm Christian
+    - Gerstaecker, Frederick
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+    - https://en.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_issued: '2023-07-18'
+identifiers:
+  gutenberg: '71216'
+language: fi
+pgterms:marc905: 20220326025157gerstcker
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bArvi A. Karisto Oy, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Harhateillä
+url: http://www.gutenberg.org/ebooks/71216
